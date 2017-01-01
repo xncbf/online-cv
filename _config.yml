@@ -12,14 +12,14 @@ baseurl: '' #change it according to your repository name
 
 
 #Profile information
-name: Alan Doe
-tagline: Full Stack Developer
+name: Joon Hwan Kim
+tagline: Django Developer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
 email: xncbf12@gmail.com
 phone: 010 6779 4090
-website: xncbf.github.io #do not add http://
+website: github.com/xncbf #do not add http://
 # linkedin: none
 github: xncbf
 # twitter: '@webjeda'
